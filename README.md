@@ -1,0 +1,2 @@
+# LeetcodeDiary
+Leetcode Training records
